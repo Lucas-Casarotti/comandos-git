@@ -1,2 +1,2 @@
 
-<h1>Principais comandos do git 📄 </h1>
+<h1 align="center">Principais comandos do git 📄 </h1>
