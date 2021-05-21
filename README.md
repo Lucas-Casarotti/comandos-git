@@ -8,7 +8,7 @@
   <li><p>É preciso iniciar um repositório na pasta do projeto</p></li>
   <ul><li>git init</li></ul>
   
-  <li><p>Git Status para ver os arquivos modificados da past</p></li>
+  <li><p>Git Status para ver os arquivos modificados da pasta</p></li>
   <ul><li>git status</li></ul>
   
   <li><p>Git add . para subir todos os arquivos de uma vez</p></li>
@@ -30,7 +30,7 @@
 <h3>ENVIANDO NOVAS ALTERAÇÕES DEPOIS DE JA TER CRIADO O REPOSITÓRIO REMOTO</h3>
   
 <ol>
-  <li><p>Git Status para ver os arquivos modificados da past</p></li>
+  <li><p>Git Status para ver os arquivos modificados da pasta</p></li>
   <ul><li>git status</li></ul>
   
   <li><p>Git add . para subir todos os arquivos de uma vez</p></li>
@@ -42,4 +42,18 @@
   <li><p>Enviando os arquivos para o repositório remoto</p></li>
   <ul><li>git push -u origin main</li></ul>
 </ol>
+
+<h3>OUTROS</h3>
+  
+<ol>
+  <li><p>Desfazendo o último commit</p></li>
+  <ul><li>git revert HEAD</li></ul>
+  
+  <li><p>Renomear Commit</p></li>
+  <ul><li>git commit --amend</li></ul>
+  
+  <li><p>Visualizando o Histórico de Commits</p></li>
+  <ul><li>git log</li></ul>
+</ol>
+
 
