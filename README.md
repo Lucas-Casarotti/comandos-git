@@ -5,8 +5,8 @@
 <h3>COMANDOS DO GIT PARA SUBIR UM PROJETO</h3>
 
 <ol>
-  <li>É preciso iniciar um repositório na pasta do projeto
-$ git init</li>
+  <li><p>É preciso iniciar um repositório na pasta do projeto
+    $ git init</p></li>
 </ol>
 
 2- Git Status para ver os arquivos modificadosgit lo da pasta
