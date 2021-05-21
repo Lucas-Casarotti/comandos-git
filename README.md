@@ -8,7 +8,7 @@
   <li><p>É preciso iniciar um repositório na pasta do projeto</p></li>
   <ul><li>git init</li></ul>
   
-  <li><p>Ver os arquivos modificados da pasta</p></li>
+  <li><p>Git status os arquivos modificados da pasta</p></li>
   <ul><li>git status</li></ul>
   
   <li><p>Git add . para subir todos os arquivos de uma vez</p></li>
