@@ -1,6 +1,6 @@
 
 <h1 align="center">Principais comandos do git 📄 </h1>
-<img src="https://github.com/Lucas-Casarotti/comandos-git/blob/main/git.png" min-width="960" max-width="960" width="960" align="center">
+<img src="https://github.com/Lucas-Casarotti/comandos-git/blob/main/git.png" min-width="960" max-width="960" align="center">
 
 <h3>COMANDOS PARA SUBIR UM PROJETO</h3>
 
