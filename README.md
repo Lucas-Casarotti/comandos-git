@@ -5,7 +5,8 @@
 <h3>COMANDOS DO GIT PARA SUBIR UM PROJETO</h3>
 
 <ol>
-  <li><p> É preciso iniciar um repositório na pasta do projeto = git init</p></li>
+  <li><p> É preciso iniciar um repositório na pasta do projeto</p></li>
+  <ul><li>git init</li></ul>
   <li><p> Git Status para ver os arquivos modificados da pasta = git status</p></li>
   <li><p> Git add . para subir todos os arquivos de uma vez    = git add .</p></li>
   <li><p> Git commit para comitar os arquivos do projeto       = git commit -m "nome do commit"</p></li>
