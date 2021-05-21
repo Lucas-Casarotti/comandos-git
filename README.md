@@ -5,24 +5,15 @@
 <h3>COMANDOS DO GIT PARA SUBIR UM PROJETO</h3>
 
 <ol>
-  <li><p>É preciso iniciar um repositório na pasta do projeto
-    $ git init</p></li>
+  <li><p>É preciso iniciar um repositório na pasta do projeto $ git init</p></li>
+  <li><p>Git Status para ver os arquivos modificados da pasta $ git status</p></li>
+  <li><p>2Git add . para subir todos os arquivos de uma vez
+$ git add .</p></li>
+  <li><p>Git commit para comitar os arquivos do projeto
+git commit -m "nome do commit"</p></li>
+  <li><p>git remote add origin https://github.com/Lucas-Casarotti/nome-do-repositorio</p></li>
+  <li><p>6- Dando um branch para ajudar na criação do projeto
+git branch -M main</p></li>
+   <li><p>Enviando os arquivos para o repositório remoto
+     git push -u origin main</p></li>
 </ol>
-
-2- Git Status para ver os arquivos modificadosgit lo da pasta
-$ git status
-
-3- Git add . para subir todos os arquivos de uma vez
-$ git add .
-
-4- Git commit para comitar os arquivos do projeto
-git commit -m "nome do commit"
-
-5- Adicionando um repositório remoto
-git remote add origin https://github.com/Lucas-Casarotti/LoginFacebook.git
-
-6- Dando um branch para ajudar na criação do projeto
-git branch -M main
-
-7- Enviando os arquivos para o repositório remoto
-git push -u origin main
