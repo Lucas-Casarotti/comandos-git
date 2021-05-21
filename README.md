@@ -2,7 +2,7 @@
 <h1 align="center">Principais comandos do git 📄 </h1>
 <img src="https://github.com/Lucas-Casarotti/comandos-git/blob/main/github.jpg" min-width="500" max-width="960" width="960" align="center">
 
-<h3>COMANDOS DO GIT PARA SUBIR UM PROJETO</h3>
+<h3>COMANDOS PARA SUBIR UM PROJETO</h3>
 
 <ol>
   <li><p>É preciso iniciar um repositório na pasta do projeto</p></li>
@@ -27,7 +27,7 @@
   <ul><li>git push -u origin main</li></ul>
 </ol>
 
-<h3>ENVIANDO DEPOIS DE JA TER CRIADO O REPOSITÓRIO</h3>
+<h3>ENVIANDO NOVAS ALTERAÇÕES DEPOIS DE JA TER CRIADO O REPOSITÓRIO REMOTO</h3>
   
 <ol>
   <li><p>Git Status para ver os arquivos modificados da past</p></li>
