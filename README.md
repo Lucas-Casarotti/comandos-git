@@ -43,6 +43,20 @@
   <ul><li>git push -u origin main</li></ul>
 </ol>
 
+<h3>TROQUEI DE COMPUTADOR, COMO ALTERO MEUS REPOSITÓRIOS REMOTOS?</h3>
+<ol>
+  <li><p>Git Clone, para clonar o repositório na minha nova máquina</p></li>
+  <ul><li>Git Clone</li></ul>
+  
+  <li><p>Git add . para subir todos os arquivos de uma vez</p></li>
+  <ul><li>git add .</li></ul>
+  
+  <li><p>Git commit para comitar os arquivos do projeto</p></li>
+  <ul><li>git commit -m "nome do commit"</li></ul>
+  
+  <li><p>Enviando os arquivos para o repositório remoto</p></li>
+  <ul><li>git push -u origin main</li></ul>
+</ol>
 <h3>OUTROS</h3>
   
 <ol>
